@@ -9,7 +9,7 @@ const categoriesArray = ["Weeb", "Emotional Damage", "General", "Before and Afte
 const questionsArray = [
   [
     {
-      q: "The 3rd openng is Blue Bird by Ikimono Gakari.",
+      q: "The 3red openng is Blue Bird by Ikimono Gakari.",
       a: "What is a Naruto Shippuden Opening?",
       i: "bluebird.jpg",
       ia: "",
